@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thinking-machines-exam-285522",
+  "private_key_id": "d1961312fb745f25e78c000e1001653cc243252e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRLZHlBVEqkD1l\nTY1m1W5EyOhbfLM107oVKkNI2xR3FjT4+uTO66WKLY3am4Dg8kme4hg1uLR2/fTS\nUx0VzB0I6o+OYNSkUmU+QzmFWQrxo4vqR5dNmQN5JlPg0qYG1KQfnE7NZtNsO0gT\nsdePPNUTzGm78qm/ax+mKPWXmI4bCTsilvw8uQwYr+wMXyLzian8NC4sADfewJhd\now5nqLjIsJE8oxoffsh7DPS5iEfANQIUSMxX5pqG6MlvRCpZPr0jn6gubIRvG4U1\nzacqRma98l+IHJ4pGGPVlMgcDp7SrXwHr3tTZIf+OxbJg9kvjlaXqbkx1Dc3qFEl\nhkf8qcHrAgMBAAECggEAAizioMHho3eh0+DDm6TbECDKioRl0wqnISYO+AqAVgB5\nLrnjr84MHvPryjjGR5iZzc2pezSXT6kif/xK1UbHsJiDKij9RrENX092jy70YQaI\nVCxacgk26hvO6fF+F2AcTXT0IVPHGzoQLGtfxX+t2awYcX6DWKDsSnsWovzgNDt7\nZlUb6x7imgfFvsDvYpmpa39LrjxIVR1M6PDeRnR12+ojlvie/0uE2kEz87uQGqcv\nFVrdnbo8xuMkR/axrHxGvxS5ORpCNSpb7L7qb1PVksUgh3bn8CtbyoimeIumQDzH\n2opwWyV2XQCmk82aY5wfMovOhGhYox7NWFkAdAXTwQKBgQDBipmR6rUl6EiMNbkG\ntYBvKuBgDEFU4FeyfFJwU9sXrxZL5vz+dEU6m2ckOUpTyIli156CnsDcZO4Xci2X\nYe51RovxiNkBJWGHw7LYMstOGPUcyZQBgUDtXzQ+hBrQn9d4PyDrA+kGP7SOxbR9\nD6afYdt2xGOkQ9gUDvNueiZPOwKBgQDAB28DBrnvVdiSzAs5CiVhGReJ8d+V/Gt/\noDMaV+mzxaj/s3F02PjdLuI9v3S9r+emZViy42r0lb95ZBF0axL1IYRA2+901t/E\nU6UwZvyvsEb1bNLN6CfELUSkZNNFoA7SbcJ36dwXQrFk9rp0UEK/YNGhyPp3+rzT\nd/twccGNEQKBgAJaiiWRIiTU31T9LkPbnzU640GnxH+gvtBH3MTK8EYode/0Xi1G\nArWEwEtbewDr1mfiUWYrQhMsEw0r8Uv+/+RjOD52uJTf/ICnK5yfeYN4oDp6ZRdj\nmAOK/dqoxp604uzub5sMECBoU+zMkLZYo2Ea0o1uM/wCazVLPUChsaeTAoGBAJ+9\nT05wKPn8KoWq8OcJFqEYE2mv5/NHoFDxfbE7UnA2S+gxaH7wAs1Ts+XzvvQQQR49\nDjT5Uz6U10vuv0pdy85YjEC79Az4tfoGLtL9yNOJSu3cEdwxc+sQURqDuPAhPlMz\n9OJ1ip1a4GCBkgcxwOSccKYpnplx3eP32hTmvEBRAoGADBacbWOIK3z/aTqjAFST\neV7C0/S54lAEHZHWzhCoTw7AvFCwuyzvS7wGqm0tpEXKHtaXRjugVz9KyRO/+Lbt\nuUXwoQsgBZcZM8occulu/pAwvpOdWhnrnBi6k6w7oh1ttpWzjvIA03lzjatmxsHy\nO1dxIy7asrqnIR+e1GGzhi8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nyc-taxi@thinking-machines-exam-285522.iam.gserviceaccount.com",
+  "client_id": "100454880269940007355",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nyc-taxi%40thinking-machines-exam-285522.iam.gserviceaccount.com"
+}
