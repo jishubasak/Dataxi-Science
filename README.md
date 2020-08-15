@@ -1,0 +1,2 @@
+# Dataxi Science
+ There are roughly 200 million taxi rides in New York City each year. Exploiting an understanding of taxi supply and demand could increase the efficiency of the city's taxi system. This mini project focuses on predicting the passenger demand and total gross revenue demand given a the given time (one-hour time window) and a location within New York City. In general this project aims to answer how can Data Science address the pitfall in demand of Medallion Taxi in New York City.
