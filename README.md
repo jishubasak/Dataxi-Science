@@ -24,7 +24,7 @@
 <br>
 <ul>
     <li>After Data Analysis, I found out that Manhattan(Borough), JFK Airport and LaGuardia Airport are the most demanding place when it comes to both, Passenger Count and Total amount.</li>
-    <li> Evenings are the busiest and Mornings, specially around 5AM are silent when it comes to demand.</li>
+    <li> Evenings are the busiest and mornings, specially around 5AM are silent when it comes to demand.</li>
     <li> Gradient Boosting Regressor out performs in predicting Passenger Demand and Total Gross revenue demand based on Date/Time and Pickup location.</li>
 </div>
  
