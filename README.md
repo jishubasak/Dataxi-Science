@@ -17,7 +17,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-To access the full project either download and view Dataxi Science.html or access the jupyter notebook inside the Notebook folder 
+To access the full project, either download and view Dataxi Science.html or access the jupyter notebook inside the Notebook folder 
 
 <h1><font color='#FDB515'>Executive Summary</font></h1>
 
